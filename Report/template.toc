@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Scripting Languages - A Starting Point}{4}
+\contentsline {subsection}{\numberline {2.1}Proprieties of Scripting Languages}{5}
+\contentsline {section}{\numberline {3}Between Scripting and Compiled languages}{5}
+\contentsline {section}{\numberline {4}Scripting in Games}{6}
+\contentsline {subsection}{\numberline {4.1}Case Study - \textit {Garry's Mod}}{7}
+\contentsline {subsection}{\numberline {4.2}Case Study - \textit {Minecraft: Pi Edition}}{7}
+\contentsline {section}{\numberline {5}Advantages and disadvantages of scripting}{8}
+\contentsline {subsection}{\numberline {5.1}Disadvantages}{8}
+\contentsline {subsection}{\numberline {5.2}Advantages}{8}
+\contentsline {section}{\numberline {6}Conclusion}{9}
+\contentsline {section}{\numberline {7}References}{10}
